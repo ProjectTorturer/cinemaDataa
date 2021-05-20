@@ -1,0 +1,7 @@
+{
+    "require": {
+        "imangazaliev/didom": "^1.16",
+        "ext-curl": "*",
+        "ext-mbstring": "*"
+    }
+}

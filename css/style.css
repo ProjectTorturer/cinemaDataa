@@ -1,0 +1,63 @@
+.table_sort table {
+    border-collapse: collapse;
+}
+
+.table_sort th {
+    color: #ffebcd;
+    background: #008b8b;
+    cursor: pointer;
+}
+
+
+
+
+.id_td {
+    width: 50px !important;
+    height: 40px;
+    text-align: center;
+    border: 2px solid #846868;
+}
+
+.synopsis {
+    width: 400px !important;
+    height: 40px;
+    text-align: center;
+    border: 2px solid #846868;
+}
+.table_sort td,
+.table_sort th {
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid #846868;
+}
+
+
+
+
+.table_sort tbody tr:nth-child(even) {
+    background: #e3e3e3;
+}
+
+.table_sort img {
+    width: 180px;
+}
+
+th.sorted[data-order="1"],
+th.sorted[data-order="-1"] {
+    position: relative;
+}
+
+th.sorted[data-order="1"]::after,
+th.sorted[data-order="-1"]::after {
+    right: 8px;
+    position: absolute;
+}
+
+th.sorted[data-order="-1"]::after {
+    content: "▼"
+}
+
+th.sorted[data-order="1"]::after {
+    content: "▲"
+}

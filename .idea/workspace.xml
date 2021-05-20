@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="901f83c2-8945-46d7-a475-bdec2482095e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="127.0.0.1" id="d85550e3-6e02-4001-99a5-3b73da310fe7" name="127.0.0.1" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="W:\domains\dataCinemaRelase" selected_validation_type="LOCAL" web_path_to_validation_script="http://dataCinemaRelase/" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/imangazaliev/didom" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1qWjnVEzNlojLpVCqfo5835eAZM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\dataCinemaRelase\JS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\dataCinemaRelase\JS" />
+      <recent name="W:\domains\dataCinemaRelase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.index.php">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/forms/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="connection" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/function/connection.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="filingData.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/function/filingData.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" nameIsGenerated="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.filingData.php" />
+      <item itemvalue="PHP Script.connection" />
+      <item itemvalue="PHP Script.index.php" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Алесандр\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="901f83c2-8945-46d7-a475-bdec2482095e" name="Default Changelist" comment="" />
+      <created>1617202406836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617202406836</updated>
+      <workItem from="1617202407873" duration="1900000" />
+      <workItem from="1617204609872" duration="3540000" />
+      <workItem from="1617260111259" duration="15078000" />
+      <workItem from="1617366001863" duration="6605000" />
+      <workItem from="1617522136435" duration="2418000" />
+      <workItem from="1617615574123" duration="9195000" />
+      <workItem from="1617698079334" duration="15665000" />
+      <workItem from="1617784194566" duration="13420000" />
+      <workItem from="1617862655153" duration="21432000" />
+      <workItem from="1617956840445" duration="8373000" />
+      <workItem from="1618071561279" duration="580000" />
+      <workItem from="1618142160395" duration="2660000" />
+      <workItem from="1618219574899" duration="4683000" />
+      <workItem from="1618396051781" duration="8361000" />
+      <workItem from="1618821410203" duration="6648000" />
+      <workItem from="1618919142864" duration="10447000" />
+      <workItem from="1619001530132" duration="4164000" />
+      <workItem from="1619087255356" duration="1794000" />
+      <workItem from="1619166570579" duration="8341000" />
+      <workItem from="1619364076858" duration="594000" />
+      <workItem from="1619430064153" duration="17324000" />
+      <workItem from="1619519281367" duration="10458000" />
+      <workItem from="1619589073503" duration="17660000" />
+      <workItem from="1619681329554" duration="22155000" />
+      <workItem from="1620117078557" duration="7621000" />
+      <workItem from="1620217696152" duration="15281000" />
+      <workItem from="1620295058380" duration="5577000" />
+      <workItem from="1620396299240" duration="7362000" />
+      <workItem from="1620457152614" duration="5580000" />
+      <workItem from="1620733728890" duration="3539000" />
+      <workItem from="1620807453715" duration="1515000" />
+      <workItem from="1620836882441" duration="1317000" />
+      <workItem from="1620839028256" duration="92000" />
+      <workItem from="1620899588155" duration="16000" />
+      <workItem from="1620899729644" duration="624000" />
+      <workItem from="1620921927575" duration="1915000" />
+      <workItem from="1620926004953" duration="678000" />
+      <workItem from="1620987734836" duration="461000" />
+      <workItem from="1620994415830" duration="629000" />
+      <workItem from="1620996304659" duration="616000" />
+      <workItem from="1621106040031" duration="57000" />
+      <workItem from="1621106247421" duration="13000" />
+      <workItem from="1621106274304" duration="1487000" />
+      <workItem from="1621109954749" duration="10000" />
+      <workItem from="1621178138352" duration="75000" />
+      <workItem from="1621178493002" duration="712000" />
+      <workItem from="1621244324054" duration="323000" />
+      <workItem from="1621252346028" duration="20000" />
+      <workItem from="1621253809115" duration="57000" />
+      <workItem from="1621254018627" duration="1048000" />
+      <workItem from="1621367996196" duration="564000" />
+      <workItem from="1621368571373" duration="2000" />
+      <workItem from="1621500601029" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="174" key="#CLI_Interpreters" timestamp="1619525398190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="174" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1619525398190" />
+    <state x="336" y="361" key="#SQL_Dialects" timestamp="1617703224848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="336" y="361" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1617703224848" />
+    <state x="414" y="174" width="1092" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617874937243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617874937243" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617656176256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617656176255" />
+    <state x="675" y="341" width="570" height="458" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#" timestamp="1617204541851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="341" width="570" height="458" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#/0.0.1920.1040@0.0.1920.1040" timestamp="1617204541851" />
+    <state width="539" height="466" key="DebuggerActiveHint" timestamp="1620409924708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="539" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1620409924708" />
+    <state x="749" y="333" key="FileChooserDialogImpl" timestamp="1620823263586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="333" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1620823263586" />
+    <state width="1877" height="185" key="GridCell.Tab.0.bottom" timestamp="1621178212971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621178212971" />
+    <state width="1877" height="185" key="GridCell.Tab.0.center" timestamp="1621178212971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621178212971" />
+    <state width="1877" height="185" key="GridCell.Tab.0.left" timestamp="1621178212971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621178212971" />
+    <state width="1877" height="185" key="GridCell.Tab.0.right" timestamp="1621178212971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621178212971" />
+    <state width="1877" height="185" key="GridCell.Tab.1.bottom" timestamp="1621178212971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621178212971" />
+    <state width="1877" height="185" key="GridCell.Tab.1.center" timestamp="1621178212971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621178212971" />
+    <state width="1877" height="185" key="GridCell.Tab.1.left" timestamp="1621178212971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621178212971" />
+    <state width="1877" height="185" key="GridCell.Tab.1.right" timestamp="1621178212971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621178212971" />
+    <state width="1877" height="185" key="GridCell.Tab.2.bottom" timestamp="1621178212972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621178212972" />
+    <state width="1877" height="185" key="GridCell.Tab.2.center" timestamp="1621178212972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621178212972" />
+    <state width="1877" height="185" key="GridCell.Tab.2.left" timestamp="1621178212971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621178212971" />
+    <state width="1877" height="185" key="GridCell.Tab.2.right" timestamp="1621178212972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621178212972" />
+    <state x="1133" y="238" key="NewPhpClassDialog" timestamp="1618946080564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1133" y="238" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618946080564" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1620232203106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620232203106" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1619681613291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1619681613291" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1617205133667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617205133667" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1620406748811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620406748811" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>4</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/function/filingData.php</url>
+          <line>116</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/forms/tableForm.php</url>
+          <line>16</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/forms/tableForm.php</url>
+          <line>6</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
